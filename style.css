@@ -1,0 +1,32 @@
+.navbar,
+.footer {
+  background-color: #212529;
+}
+
+body {
+  font-family: "Courier New";
+}
+
+section {
+  padding: 2rem;
+  background-color: #141414;
+}
+
+.display-4 {
+  font-family: "Brush Script MT";
+}
+
+#about,
+#skill {
+  padding-top: 4rem;
+}
+
+.gambaricon {
+  font-size: 4rem;
+  padding: 4rem;
+}
+
+#contact {
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+}
